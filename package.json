@@ -1,0 +1,25 @@
+{
+  "name": "WeChat-robot",
+  "version": "1.0.0",
+  "description": "最新的可运行的简易版微信机器人，用来都逗女朋友开心的神器。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobinben/WeChat-robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobinben/WeChat-robot/issues"
+  },
+  "homepage": "https://github.com/jobinben/WeChat-robot#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^1.10.4",
+    "wechaty-puppet-padlocal": "^0.4.2"
+  }
+}
