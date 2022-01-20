@@ -29,14 +29,13 @@ npm run start
 在config/index.js下配置`天行机器人的token`和`padlocal token`以及其他的配置。
 ```js
 module.exports = {
-    CONTACTNAME: 'Jobin',
+    CONTACTNAME: 'Jobin', // 女朋友的微信昵称（不是备注昵称）
     TOKEN: 'xxx',   // 填写天行机器人的token
     PADLOCAL_TOKEN: 'xxx' // 填写padlocal的token
 }
 ```
 
-
-
+天行api申请`土味情话`接口: [https://www.tianapi.com/apiview/80](https://www.tianapi.com/apiview/80)
 
 # 报错&问题
 
